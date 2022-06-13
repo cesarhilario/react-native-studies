@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "poc-text-editor",
+    "slug": "poc-text-editor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
